@@ -7,7 +7,7 @@
   </head>
   
   <body lang="es">
-   <?php echo "hello world!"; ?>
+   <?php echo "eeee loco!"; ?>
   </body>
   
 </html>
